@@ -3,7 +3,7 @@ public class MainApp {
         QuanLyNhanVien qlNhanVien = new QuanLyNhanVien();
 
         NhanVien nhanvien1 = new NhanVien("Nguyenn A", 20, "123 duong ABC", 10000, 210);
-        NhanVien nhanvien2 = new NhanVien("Ho K", 20, "174 Ly Tu Trong", 20000,500);
+        NhanVien nhanvien2 = new NhanVien("Tien H", 20, "174 Ly Tu Trong", 20000,500);
         NhanVien nhanvien3 = new NhanVien("Ha N", 18,"160 Nguyen Trai", 30000, 400);
         NhanVien nhanvien4 = new NhanVien("My H", 18,"18 Nguyen Binh Khiem", 15000, 400);
         NhanVien nhanvien5 = new NhanVien("Yen N", 19,"1 Bach Dang", 116000, 420);
