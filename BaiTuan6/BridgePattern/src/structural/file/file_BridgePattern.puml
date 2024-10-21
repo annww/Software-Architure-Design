@@ -1,0 +1,23 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+interface SetImplementator<T>{
+'    + void add(...) // add gi vao cung duoc
+    + void add(T data)
+    + T get(int index)
+    + remove (int index)
+}
+
+abstract class SequenceAbstraction<T>{
+    + void push(T data)
+    + void T pop()
+    + clear()
+}
+
+SequenceAbstraction --> "implement" SetImplementator
+SetImplementator <|.. MyArray
+SetImplementator <|.. MyList
+
+SequenceAbstraction <-- MyStack
+SequenceAbstraction <-- MyQueue
+@enduml

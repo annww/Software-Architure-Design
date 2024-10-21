@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31528cd2-f2b5-46d5-9c3a-5d6f9b9cd573" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../BaiTuan6/BridgePattern/src/structural/file/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BaiTuan6/BridgePattern/src/structural/file/SequenceAbstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BaiTuan6/BridgePattern/src/structural/file/SetImplementator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BaiTuan6/BridgePattern/src/structural/file/file_BridgePattern.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BaiTuan6/CompositePattern/src/structural/file/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BaiTuan6/CompositePattern/src/structural/file/FileSystemItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BaiTuan6/CompositePattern/src/structural/file/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BaiTuan6/CompositePattern/src/structural/file/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BaiTuan6/CompositePattern/src/structural/file/file_diagram.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/BuilderPatternA1/BuilderPattern_Diagram.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/BuilderPatternA1/CTHD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/BuilderPatternA1/HoaDon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/BuilderPatternA1/HoaDonHeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/BuilderPatternA1/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA3/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA3/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA3/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA4/Candidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA4/Election.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA4/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA4/SingletonA4.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA4/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA6/DataAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA6/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/src/BaiTapTH/SingletonA6/SanPham.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nbEM9YWeX6nE0eagnOzbGXZl1N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainClass.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Class&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/10 - SoftwareArchitureDesign/ThucHanh/Buoi 2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="BaiTapTH.SingletonA6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\10 - SoftwareArchitureDesign\ThucHanh\Buoi 2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31528cd2-f2b5-46d5-9c3a-5d6f9b9cd573" name="Changes" comment="" />
+      <created>1729233326297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729233326297</updated>
+    </task>
+    <servers />
+  </component>
+</project>
