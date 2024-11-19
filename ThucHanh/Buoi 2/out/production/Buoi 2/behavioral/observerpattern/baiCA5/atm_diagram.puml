@@ -1,0 +1,10 @@
+@startuml
+'https://plantuml.com/class-diagram
+ interface BienDongSoDu{
+ kiemTraSoDu(soTien: int): bool
+ nhanThongBao(msg: string)
+ }
+
+
+
+@enduml

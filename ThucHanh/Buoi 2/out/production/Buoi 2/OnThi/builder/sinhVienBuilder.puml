@@ -1,0 +1,41 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class KeHoachKyHoc{
+    - sinhVien: SinhVien
+    - dsMonHocDK: List<MonHoc>
+    - dsMonHocCaiThien: List<MonHoc>
+    # KeHoachKyHoc(Builder builder)
+    + hienThi(): void
+}
+
+class KeHoachKyHocBuilder{
+    - sinhVien: SinhVien
+    - dsMonHocDK: List<MonHoc>
+    - dsMonHocCaiThien: List<MonHoc>
+    + setSinhVien(sinhVien: SinhVien): KeHoachKyHocBuilder
+    + addMonHocDK(monHoc: MonHoc): KeHoachKyHocBuilder
+    + addMonHocCaiThien(monHoc: MonHoc): KeHoachKyHocBuilder
+    + build(): KeHoachKyHoc
+}
+
+class MonHoc{
+    - maMH: String
+    - tenMH: String
+    - soTC: int
+}
+
+class SinhVien{
+    - maSV: String
+    - hoTenSV: String
+    - ngaySinh: String
+    - queQuan: String
+    + toString(): String
+}
+
+KeHoachKyHoc ..> KeHoachKyHocBuilder : "created by"
+KeHoachKyHocBuilder --> SinhVien
+KeHoachKyHocBuilder --> MonHoc
+KeHoachKyHoc --> SinhVien
+KeHoachKyHoc --> MonHoc
+@enduml
