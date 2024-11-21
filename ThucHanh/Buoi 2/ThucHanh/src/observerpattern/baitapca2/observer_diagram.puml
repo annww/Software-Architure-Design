@@ -1,0 +1,19 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+class Button{
+- observer: observer;
+- int clickCount;
++ void click();
+}
+class Activity{
++ void update(clickCount)
+}
+interface OnClick{
+void update(clickCount)
+}
+
+Activity ..|> OnClick
+Button *--> OnClick
+Activity --> Button
+@enduml

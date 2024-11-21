@@ -1,0 +1,23 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+class PlayerData{
++ int thoiGian
++ int soLuong
++ int diem
++ void dangKy(PlayerData_listener)
++ void huyDangKy(PlayerData_listener)
++ void setThoiGian(int thoiGian)
++ void setDiem(int diem)
++ void soLuong(int soLuong)
+}
+class DashBoard{
+}
+interface PlayerData_listener{
++ void lisener(PlayerData data)
+}
+
+DashBoard --> PlayerData
+DashBoard ..|> PlayerData_listener
+PlayerData --> PlayerData_listener
+@enduml
